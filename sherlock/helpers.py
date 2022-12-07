@@ -16,7 +16,7 @@ def download_data():
         print("Downloading data directory.")
         gdown.download(
             # url="https://drive.google.com/u/0/uc?id=1RWB7djA5cJ9Nuw41SxKtEhwDyqqfcJst&export=download",
-            url = "https://drive.google.com/u/1/uc?id=1G6CtoMJEic_eyNJ0ffRKJ8JiR19tD0tb&export=download",
+            url = "https://drive.google.com/u/1/uc?id=1rNZC5sAkyAx3w2qODzspgLLOm6Zbr8V3&export=download",
             output=zip_filepath,
         )
 
